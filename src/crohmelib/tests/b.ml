@@ -1,0 +1,1 @@
+<mrow><msup><msqrt xml:id="node5:"><mi xml:id="node0:">n</mi></msqrt><mn xml:id="node6:">2</mn></msup><mrow><mfrac xml:id="node1:"><mn xml:id="node2:">1</mn><mn xml:id="node3:">2</mn></mfrac><mi xml:id="node4:">a</mi></mrow></mrow>
